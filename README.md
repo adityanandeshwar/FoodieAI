@@ -1,1 +1,1 @@
-# Food-Recommendation-System
+# FoodieAI
